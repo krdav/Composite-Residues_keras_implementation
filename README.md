@@ -6,6 +6,10 @@ Here I implement it in keras.
 
 
 
+### Network architecture diagram from article:
+
+![alt text](https://github.com/krdav/Composite-Residues_keras_implementation/article_diagram.png "article diagram")
+
 
 
 
