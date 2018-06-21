@@ -7,8 +7,11 @@ Here I implement it in keras.
 
 
 ### Network architecture diagram from article:
-
 ![alt text](https://github.com/krdav/Composite-Residues_keras_implementation/blob/master/article_diagram.png "article diagram")
+
+
+### Network architecture diagram of this implementation:
+![alt text](https://github.com/krdav/Composite-Residues_keras_implementation/blob/master/keras_model.png "keras diagram")
 
 
 
