@@ -5,7 +5,7 @@ The article does show a diagram of the network architecture but provides no impl
 Here I implement it in keras.
 
 To make the parameter count match I figured that they didn't use bias nodes on the five node dense layer but did use a bias node for the output layer.
-This may be incorrect, but honestly I don't know why they would not use these bias nodes in the first place...
+This may be incorrect, but honestly I don't know why they would not use these bias nodes in the first place....
 
 
 
